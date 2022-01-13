@@ -1,0 +1,34 @@
+_repo: Mopsa-the-Fairy_67087
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Curtis, Dora
+    alias: Curtis, D. (Dora)
+    gutenberg_agent_id: '37920'
+    url: http://www.gutenberg.org/2009/agents/37920
+creator:
+  author:
+    agent_name: Ingelow, Jean
+    birthdate: 1820
+    deathdate: 1897
+    gutenberg_agent_id: '4305'
+    url: http://www.gutenberg.org/2009/agents/4305
+    wikipedia: https://en.wikipedia.org/wiki/Jean_Ingelow
+description: ''
+gutenberg_issued: '2022-01-03'
+identifiers:
+  gutenberg: '67087'
+language: en
+pgterms:marc905: 20200816111225ingelow
+pgterms:marc906: '1919'
+pgterms:marc907: GB
+production_note: Juliet Sutherland, Shaun Mudd and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United Kingdom :J. M. Dent & Sons,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mopsa the Fairy
+url: http://www.gutenberg.org/ebooks/67087
