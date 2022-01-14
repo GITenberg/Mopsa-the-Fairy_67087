@@ -6,6 +6,9 @@ contributor:
     alias: Curtis, D. (Dora)
     gutenberg_agent_id: '37920'
     url: http://www.gutenberg.org/2009/agents/37920
+covers:
+- cover_type: archival
+  image_path: 67087-h/images/cover.jpg
 creator:
   author:
     agent_name: Ingelow, Jean
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4305
     wikipedia: https://en.wikipedia.org/wiki/Jean_Ingelow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67087#Mopsa-the-Fairy
 gutenberg_issued: '2022-01-03'
 identifiers:
   gutenberg: '67087'
